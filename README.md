@@ -1,5 +1,5 @@
 
-# Phishing Domain Ownership Analysis
+# PhishXtract_Analysis
 
 Understanding the infrastructure behind phishing websites is crucial for developing effective detection and mitigation strategies. This repository presents a comprehensive analysis of phishing domain ownership by categorizing phishing URLs into three primary types: attacker-owned domains, compromised legitimate domains, and links hosted on third-party platforms. Building on the foundation of the Taxonomy of Phishing Websites project, this extension leverages a machine learning classifier trained on a curated, manually labeled dataset to infer ownership patterns from a large-scale, real-world phishing reports corpus collected over a year.
 
@@ -29,5 +29,3 @@ This project employs the Random Forest model previously trained on a manually la
 ## Contact Information
 
 For questions, please contact [merfa006@uottawa.ca](mailto:merfa006@uottawa.ca).
-
-# PhishXtract_Analysis
